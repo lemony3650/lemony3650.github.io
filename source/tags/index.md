@@ -1,5 +1,6 @@
 ---
-title: tags
-date: 2019-11-06 20:21:09
-type: tags
+layout: "tags"
+title: "Tags"
+description: "I don’t know where I am going, but I am on my way......"
+header-img: "img/header_img/tag_bg.jpg"
 ---
